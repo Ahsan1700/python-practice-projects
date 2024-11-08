@@ -1,8 +1,8 @@
-# Python Practice Projects (8/100)
+# Python Practice Projects (9/100)
 
 A repo for me to store projects for practicing python
 
-### Status (8/100)
+### Status (9/100)
 #### 1. Band Name Generator (Variables & Strings)
 #### 2. Tip and Split Calculator (Data Types & Computation)
 #### 3. Treasure Island (Control Flow & Conditionals)
@@ -11,3 +11,4 @@ A repo for me to store projects for practicing python
 #### 6. Lost in Maze - Reeborg's World (Functions)
 #### 7. Hangman (Cumulative)
 #### 8. Caesar Cipher (Functions with inputs)
+#### 9. Secret Auction (Dictionaries and Nesting)
